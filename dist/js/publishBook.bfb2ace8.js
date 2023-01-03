@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["publishBook"],{"53c8":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"scien"},[t("h1",[e._v("صفحه چاپ کتب")])])}],a={name:"PublishBook"},i=a,l=t("2877"),o=Object(l["a"])(i,s,c,!1,null,"470e7a22",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=publishBook.bfb2ace8.js.map
