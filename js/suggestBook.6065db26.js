@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["suggestBook"],{"0f8c":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"scien"},[n("h1",[e._v("صفحه پیشنهاد کتاب")])])}],a={name:"SuggestBook"},o=a,r=n("2877"),u=Object(r["a"])(o,s,c,!1,null,"1f1ca283",null);t["default"]=u.exports}}]);
-//# sourceMappingURL=suggestBook.6065db26.js.map

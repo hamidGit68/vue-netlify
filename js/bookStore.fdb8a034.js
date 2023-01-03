@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["bookStore"],{1139:function(e,o,t){"use strict";t.r(o);var n=function(){var e=this,o=e.$createElement,t=e._self._c||o;return t("div",{staticClass:"bookStore"},[e._v(" کتابخانه ")])},r=[],s={name:"bookStore"},a=s,c=t("2877"),i=Object(c["a"])(a,n,r,!1,null,"7dc14782",null);o["default"]=i.exports}}]);
-//# sourceMappingURL=bookStore.fdb8a034.js.map
